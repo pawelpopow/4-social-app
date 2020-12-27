@@ -1,0 +1,90 @@
+html {
+  overflow-y: scroll;
+}
+
+.u-inline-block {
+  display: inline-block;
+}
+
+.form-group {
+  margin-right: 16px;
+}
+
+label {
+  margin-right: 8px;
+}
+
+.mr-2 {
+  margin-right: 16px;
+}
+
+.u-display--none {
+  display: none;
+}
+
+.u-display--block {
+  display: block;
+}
+
+.w-100 {
+  width: 100%;
+}
+
+.mb-1 {
+  margin-bottom: 12px;
+}
+
+hr {
+  border-bottom: 1px solid white;
+  opacity: 25%;
+}
+
+
+
+/* Test Styles */
+
+.comments-add-textarea {
+  width: 100%;
+  height: 100px;
+  resize: none;
+}
+
+
+.profile-friend {
+  width: 165px;
+  height: 165px;
+  padding: 12px;
+  text-align: center;
+  display: inline-block;
+  background-color: #ddd;
+  margin: 12px;
+  color: #2c2c2c;
+  position: relative;
+  overflow: hidden;
+}
+
+.profile-friend img {
+  max-height: 100%;
+  max-width: 100%;
+}
+
+.profile-friend--delete {
+  width:100%;
+  border-top-left-radius: 0;
+  border-top-right-radius: 0;
+}
+
+.nav-profile-img {
+  width: 25px;
+  border-radius: 50%;
+}
+
+.card-horizontal {
+    display: flex;
+    flex: 1 1 auto;
+}
+
+.comment-img-wrapper {
+  width: 160px;
+  height: 160px;
+}
